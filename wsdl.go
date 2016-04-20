@@ -1,3 +1,4 @@
+// Package wsdl currently provides two parse function for pre-defined elements
 package wsdl
 
 import (
